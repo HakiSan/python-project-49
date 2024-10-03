@@ -7,6 +7,6 @@ build:
 publish:
 	poetry publish --dry-run
 package-install:
-	python3 -m pipx install dist/*.whl
+	python3 -m pipx install dist/*.whl --force
 lint:
 	poetry run flake8 brain_games
