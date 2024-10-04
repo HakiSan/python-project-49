@@ -3,3 +3,4 @@
 <a href="https://codeclimate.com/github/HakiSan/python-project-49/maintainability"><img src="https://api.codeclimate.com/v1/badges/474e529fef7fbde5f5e5/maintainability" /></a>
 
 [![asciicast](https://asciinema.org/a/fJJWeKcGfLvxWyYWGRY0nNHXN.svg)](https://asciinema.org/a/fJJWeKcGfLvxWyYWGRY0nNHXN)
+[![asciicast](https://asciinema.org/a/EuSTlRGtJeDBaHowEjPzAcFRa.svg)](https://asciinema.org/a/EuSTlRGtJeDBaHowEjPzAcFRa)
