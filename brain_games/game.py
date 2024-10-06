@@ -1,5 +1,5 @@
 import prompt
-from brain_games.games.cli import welcome_user
+from brain_games.cli import welcome_user
 
 
 def run_game(game):
@@ -14,9 +14,9 @@ def run_game(game):
             print('Correct!')
             num_correct_answers -= 1
         else:
-            print(f"'{answer}' is wrong answer ;(. Correct answer was '{correct_answer}'.")
-            print(f"Let's try again, {name}!")
+            print(f"'{answer}' is wrong answer ;(. "
+                  f"Correct answer was '{correct_answer}'. "
+                  f"Let's try again, {name}!")
             break
         if num_correct_answers == 0:
             print(f'Congratulations, {name}!')
-
