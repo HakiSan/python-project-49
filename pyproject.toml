@@ -1,16 +1,18 @@
 [tool.poetry]
 name = "hexlet-code"
 version = "0.1.0"
-description = ""
+description = "Brain-games. Package of five simple mathematics quiz games."
 authors = ["HakiSan <i@hakisan.ru>"]
 readme = "README.md"
+repository = "https://github.com/HakiSan/python-project-49/"
+classifiers = ["Topic :: Games/Entertainment"]
 packages = [
   { include = "brain_games" },
 ]
 
 
 [tool.poetry.dependencies]
-python = "^3.12"
+python = "^3.8.1"
 prompt = "^0.4.1"
 
 
