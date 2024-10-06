@@ -24,7 +24,7 @@ Use Makefile to generate virtual environment for package:
 ## Progression
 ### A series of numbers with numerical progression is given. It is required to find the missing element
 ```brain-progression```
-[![asciicast](https://asciinema.org/a/jcruoyLzzJfAhnQNbWCcKSNyM.svg)](https://asciinema.org/a/jcruoyLzzJfAhnQNbWCcKSNyM)
+[![asciicast](https://asciinema.org/a/ekKqdvrtEHaGgElHdp1kYsagA.svg)](https://asciinema.org/a/ekKqdvrtEHaGgElHdp1kYsagA)
 ## Prime
 ### Given a number from 1 to 100. It is required to answer whether the number is prime or not.
 ```brain-prime```
